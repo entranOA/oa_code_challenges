@@ -6,4 +6,4 @@ def sum_in_list(in_list: list, goal_sum: int) -> bool:
         for j in in_list:
             if i + j == goal_sum:
                 return True
-return False
+    return False
