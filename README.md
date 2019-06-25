@@ -2,6 +2,6 @@
 Outside Analytics code challenges, problems &amp; solutions
 
 Workflow:
-  - Make branch for you
+  - Fork this repo
   - commit your code
-  - open a pull request against master
+  - open a pull request against this master
